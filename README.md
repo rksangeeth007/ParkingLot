@@ -23,7 +23,7 @@ We interact with the system via a simple set of commands which produce a specifi
 
 To run the program:
 
-$ parking_lot.sh file_input.txt > output.txt
+$ bin/parking_lot file_input.txt > output.txt
 
 Input (in file):
 
@@ -107,7 +107,7 @@ Not found
 
 To run the program and launch the shell:
 
-$ parking_lot.sh
+$ bin/parking_lot
 
 Assuming a parking lot with 6 slots, the following commands should be run in sequence by
 
