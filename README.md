@@ -23,7 +23,7 @@ We interact with the system via a simple set of commands which produce a specifi
 
 To run the program:
 
-$ parking_lot.sh input_file.txt > output.txt
+$ parking_lot.sh file_input.txt > output.txt
 
 Input (in file):
 
